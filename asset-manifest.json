@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Abhishek-Dixit/static/css/main.9c75b764.css",
+    "main.js": "/Abhishek-Dixit/static/js/main.d310521a.js",
+    "static/js/787.1f11dfe9.chunk.js": "/Abhishek-Dixit/static/js/787.1f11dfe9.chunk.js",
+    "static/media/javascript.jpg": "/Abhishek-Dixit/static/media/javascript.85be465d6ccbc06f1fcd.jpg",
+    "static/media/react.jpg": "/Abhishek-Dixit/static/media/react.6d62eac5bafe2568974d.jpg",
+    "static/media/java.jpg": "/Abhishek-Dixit/static/media/java.c3dbf7bd32c00f9b0103.jpg",
+    "static/media/css.jpg": "/Abhishek-Dixit/static/media/css.e6c3b8dd9a5c20c20178.jpg",
+    "static/media/html5.jpg": "/Abhishek-Dixit/static/media/html5.60b480723343b27bb346.jpg",
+    "static/media/htmlcssjs.jpg": "/Abhishek-Dixit/static/media/htmlcssjs.3455bb49a5b9a6153b16.jpg",
+    "static/media/C programming.jpg": "/Abhishek-Dixit/static/media/C programming.4b3e41f86ade20cba4cd.jpg",
+    "static/media/intrnship.jpg": "/Abhishek-Dixit/static/media/intrnship.9de82b95e1e7ffe1c9a9.jpg",
+    "static/media/about.jpg": "/Abhishek-Dixit/static/media/about.40029e409af5acf207a3.jpg",
+    "static/media/profile.jpg": "/Abhishek-Dixit/static/media/profile.b0a93f926484c782927b.jpg",
+    "static/media/CID internship.jpg": "/Abhishek-Dixit/static/media/CID internship.bbbc4a8183c67eb3b7ee.jpg",
+    "static/media/abhishek-cv.pdf": "/Abhishek-Dixit/static/media/abhishek-cv.fb2b02d892d7a21cd185.pdf",
+    "static/media/logo.png": "/Abhishek-Dixit/static/media/logo.96d02e4ae42246a9e96e.png",
+    "static/media/Techcompiler-logo.png": "/Abhishek-Dixit/static/media/Techcompiler-logo.b891b4823d0c118e474b.png",
+    "index.html": "/Abhishek-Dixit/index.html",
+    "main.9c75b764.css.map": "/Abhishek-Dixit/static/css/main.9c75b764.css.map",
+    "main.d310521a.js.map": "/Abhishek-Dixit/static/js/main.d310521a.js.map",
+    "787.1f11dfe9.chunk.js.map": "/Abhishek-Dixit/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c75b764.css",
+    "static/js/main.d310521a.js"
+  ]
+}
